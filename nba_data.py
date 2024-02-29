@@ -4,7 +4,6 @@ from nba_api.live.nba.endpoints import scoreboard
 """
 TODO: Retrieve teams and their score !DONE
 TODO: Retrieve game leaders and their stats !DONE
-* Webscrape ONLY youtube highlights !DONE
 """
 
 

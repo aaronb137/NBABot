@@ -6,6 +6,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.expected_conditions import presence_of_element_located
 from timehelper import get_today_date
 
+"""
+* Webscrape ONLY youtube highlights !DONE
+"""
+
 
 def retrieve_youtube_link(team: str):
     today_date = get_today_date()
